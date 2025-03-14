@@ -2,7 +2,7 @@
 
 빠른 시간 내에 ReCAPTCHA를 해제하고, 한국인만 읽을 수 있는 문장을 해석해 순위를 매기는 게임 액티비티입니다.
 
-![image](https://github.com/yymin1022/GDGoC_CAU_NEXT_Captcha_Game/assets/12806229/5ff45af7-8646-45a1-bfaf-7dd1d7820593)
+![image](https://github.com/user-attachments/assets/fee4db12-c69f-47e8-9227-a72b0315b170)
 
 ### Tech Stacks
 - React.JS
