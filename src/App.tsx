@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import ReCAPTCHA from "react-google-recaptcha";
 import styled from "styled-components";
 
-import GDG_GDSC_LOGO from "./Images/gdg_gdsc_logo.png";
+import GDGOC_CAU_LOGO from "./Images/gdgoc_cau_logo.png";
 import StopWatch, {curTime} from "./StopWatch";
 import KoreanTranslate from "./KoreanTranslate";
 
@@ -42,7 +42,7 @@ const App = () => {
 
             <KoreanTranslate isHuman={isHuman} isStart={isStart} finishGame={finishGame} />
 
-            <FooterBanner alt="FooterBanner" src={GDG_GDSC_LOGO} />
+            <FooterBanner alt="FooterBanner" src={GDGOC_CAU_LOGO} />
 
         </MainWrapper>
     );
